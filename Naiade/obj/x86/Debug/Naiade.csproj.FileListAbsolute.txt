@@ -1,0 +1,26 @@
+c:\users\мурат\documents\visual studio 2010\Projects\Naiade\Naiade\bin\Debug\Naiade.exe
+c:\users\мурат\documents\visual studio 2010\Projects\Naiade\Naiade\bin\Debug\Naiade.pdb
+c:\users\мурат\documents\visual studio 2010\Projects\Naiade\Naiade\obj\x86\Debug\Naiade.Form1.resources
+c:\users\мурат\documents\visual studio 2010\Projects\Naiade\Naiade\obj\x86\Debug\Naiade.Properties.Resources.resources
+c:\users\мурат\documents\visual studio 2010\Projects\Naiade\Naiade\obj\x86\Debug\Naiade.csproj.GenerateResource.Cache
+c:\users\мурат\documents\visual studio 2010\Projects\Naiade\Naiade\obj\x86\Debug\Naiade.exe
+c:\users\мурат\documents\visual studio 2010\Projects\Naiade\Naiade\obj\x86\Debug\Naiade.pdb
+C:\Users\Мурат\Documents\Visual Studio 2010\Projects\Naiade\Naiade\obj\x86\Debug\Naiade.csprojResolveAssemblyReference.cache
+C:\ГеркаГенка\Учеба Герка\теория принятия решений\Naiade\Naiade\obj\x86\Debug\Naiade.exe
+C:\ГеркаГенка\Учеба Герка\теория принятия решений\Naiade\Naiade\obj\x86\Debug\Naiade.pdb
+C:\ГеркаГенка\Учеба Герка\теория принятия решений\Naiade\Naiade\bin\Debug\Naiade.exe
+C:\ГеркаГенка\Учеба Герка\теория принятия решений\Naiade\Naiade\bin\Debug\Naiade.pdb
+C:\ГеркаГенка\Учеба Герка\теория принятия решений\Naiade\Naiade\obj\x86\Debug\Naiade.csprojResolveAssemblyReference.cache
+C:\ГеркаГенка\Учеба Герка\теория принятия решений\Naiade\Naiade\obj\x86\Debug\Naiade.Form1.resources
+C:\ГеркаГенка\Учеба Герка\теория принятия решений\Naiade\Naiade\obj\x86\Debug\Naiade.Properties.Resources.resources
+C:\ГеркаГенка\Учеба Герка\теория принятия решений\Naiade\Naiade\obj\x86\Debug\Naiade.csproj.GenerateResource.Cache
+F:\универ\NAIADE\Naiade\obj\x86\Debug\Naiade.exe
+F:\универ\NAIADE\Naiade\obj\x86\Debug\Naiade.pdb
+F:\универ\NAIADE\Naiade\bin\Debug\Naiade.exe
+F:\универ\NAIADE\Naiade\bin\Debug\Naiade.pdb
+F:\универ\NAIADE\Naiade\obj\x86\Debug\Naiade.csprojResolveAssemblyReference.cache
+F:\универ\NAIADE\Naiade\obj\x86\Debug\Naiade.Properties.Resources.resources
+F:\универ\NAIADE\Naiade\obj\x86\Debug\Naiade.csproj.GenerateResource.Cache
+F:\универ\NAIADE\Naiade\obj\x86\Debug\Naiade.NAIADE.resources
+I:\NAIADE1\NAIADE\Naiade\obj\x86\Debug\Naiade.exe
+I:\NAIADE1\NAIADE\Naiade\obj\x86\Debug\Naiade.pdb
